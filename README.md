@@ -3,6 +3,7 @@
 A desktop application to generate strong, random passwords and save them securely using a local SQLite database. Built using Python's Tkinter for GUI.
 
 ---
+> 📘 This project was created during my second year (3rd semester) of college as part of a Python development course assignment.
 
 ## 🚀 Features
 
